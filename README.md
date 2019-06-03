@@ -98,6 +98,10 @@ Installation
 ============
 https://www.opensource-socialnetwork.org/wiki/view/706/how-to-install-open-source-social-network
 
+How to Install Open Source Social Network (OSSN) on Ubuntu 18.04 LTS using Apache2 + mariadb + PHP7.1(OSSN does not support PHP 7.2 yet)
+https://www.howtoforge.com/tutorial/how-to-install-open-source-social-network-ossn-on-ubuntu/
+
+
 DEMO
 ====
 http://demo.opensource-socialnetwork.org/
